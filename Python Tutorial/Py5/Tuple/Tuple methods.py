@@ -1,6 +1,6 @@
 tuple1=("Asif","Jubair",105,True,"Tamim","Asif")
 
-#Count()
+#Count() ----------> show the dulplication times
 count=tuple1.count("Asif")
 print("Asif is present here {} times".format(count))
 
