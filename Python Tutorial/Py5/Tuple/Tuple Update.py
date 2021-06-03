@@ -1,4 +1,4 @@
-# Once tuple is created ita can not be modified anymore
+# Once tuple is created it can not be modified anymore
 # First thing first so we need to convert the `tuple` in a `List`
 # Then we need to convert the list in to a tuple again
 
