@@ -21,7 +21,7 @@ We use lambda functions when we require a nameless function for a short period o
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-## Built in functions of lambda function 
+## Built in functions of lambda function ->
 
 - Map() ->
 The map() function in Python takes in a function and a list.
@@ -33,30 +33,27 @@ The filter() function in Python takes in a function and a list as arguments.
 The function is called with all the items in the list and a new list is returned which contains items for which the function evaluates to True.
 
 
-# Similarities of `Filter()` & `Map()` --->
+### Similarities of `Filter()` & `Map()` --->
 
-## Lambda built in functions ---->
 - filter() -> 
      - takes function and list as argument 
      - reeturn a new list based on the function evaluation
 
-
-## Lambda built in functions ---->
 - map() -> 
      - takes function and list as argument 
      - reeturn a new list based on the function evaluation
 
 
-`
+```
 #Syntax ---->
 # newList=list(filter(lambda ---- ),listName)
 # map() ->
 #newList=list(map(lambda -----),listName)
-`
+```
 
 
-# Differance between map() and filter() ->
+## Differance between map() and filter() ->
 
-` In map: Function will be applied to all objects of iterable.
+``` In map: Function will be applied to all objects of iterable.
 
- In filter: Function will be applied to only those objects of iterable who goes True on the condition specified in expression.`
+ In filter: Function will be applied to only those objects of iterable who goes True on the condition specified in expression.```
