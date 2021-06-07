@@ -53,7 +53,8 @@ The function is called with all the items in the list and a new list is returned
 
 
 ## Differance between map() and filter() ->
+```
+In map: Function will be applied to all objects of iterable.
+In filter: Function will be applied to only those objects of iterable who goes True on the condition specified in expression. 
 
-``` In map: Function will be applied to all objects of iterable.
-
- In filter: Function will be applied to only those objects of iterable who goes True on the condition specified in expression.```
+```
