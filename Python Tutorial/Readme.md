@@ -10,7 +10,7 @@
  
  # Pre-requisite :
  - Basic knowledge about programming 
- - Knowledge about Object orirented programming 
+ - Knowledge about Object oriented programming 
     >>[>OOP](https://en.wikipedia.org/wiki/Object-oriented_programming#:~:text=Object%2Doriented%20programming%20(OOP),(often%20known%20as%20methods).)
  
  
