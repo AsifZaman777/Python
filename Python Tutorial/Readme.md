@@ -13,6 +13,13 @@
  - Knowledge about Object oriented programming 
     >>[>OOP](https://en.wikipedia.org/wiki/Object-oriented_programming#:~:text=Object%2Doriented%20programming%20(OOP),(often%20known%20as%20methods).)
  
+
+ ## Easy to learn.We can learn- >
+ 1.Variable datatypes
+ 2.OOP concept Python
+ 3.Class structure
+ 4.Python Collections
+ 5.Loop and conditions
+ 6.Exception using OS modules
  
- 
- ## This tutorial is beginner friendly. Easy to learn.
+ ## This tutorial is beginner friendly
