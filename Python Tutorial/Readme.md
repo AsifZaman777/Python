@@ -15,11 +15,11 @@
  
 
  ## Easy to learn.We can learn- >
- 1.Variable datatypes
- 2.OOP concept Python
- 3.Class structure
- 4.Python Collections
- 5.Loop and conditions
- 6.Exception using OS modules
+ 1. Variable datatypes
+ 2. OOP concept Python
+ 3. Class structure
+ 4. Python Collections
+ 5. Loop and conditions
+ 6. Exception using OS modules
  
  ## This tutorial is beginner friendly
