@@ -21,5 +21,7 @@
  4. Python Collections
  5. Loop and conditions
  6. Exception using OS modules
+ 7. Lambda function
+ 
  
  ## This tutorial is beginner friendly
